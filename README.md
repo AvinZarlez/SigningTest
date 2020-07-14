@@ -1,2 +1,2 @@
 # SigningTest
-Test to see if signing commits works
+This was made as a test to see if signing a commit works.
